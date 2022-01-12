@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: transparent;
+}
+#connect{
+	padding: 15px 40px;
+	border-radius: 40px;
+	border: 2px solid #fff;
+	color: #fff;
+	background-color: #D46BAE;
+	font-size: 16px;
+	font-weight: 600;
+}
+#connect:hover{
+	background-color: #EFA2D3;
+}
